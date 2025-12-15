@@ -18,7 +18,7 @@ I enjoy building practical systems, exploring new technologies, and continuously
 
 * **Languages**: Java, Python, SQL
 * **Backend**: Spring Boot, Spring Security, JPA/Hibernate
-* **Frontend**: ReactJS (basic), HTML, CSS
+* **Frontend**: ReactJS, HTML, CSS
 * **Database**: PostgreSQL, MySQL
 * **Tools**: Git, Docker, Postman
 
